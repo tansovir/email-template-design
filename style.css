@@ -1,0 +1,182 @@
+*{padding:0;margin:0}
+body{
+	font-family:sans-serif;
+	width:720px;
+	
+	margin:0 auto;
+	background:#B8B8B8;
+}
+/* this is header */
+header{background:#000;
+	color:#fff;
+	height:82px;
+}
+.headtitle {
+    width: 300pxpx;
+    float: left;
+    padding-top: 23px;
+    padding-left: 40px;
+}
+.headtitle h1 {
+    font-size: 30px;
+}
+.headnav {
+    width: 288px;
+    float: right;
+    padding-right: 40px;
+    padding-top: 38px;
+}
+.headnav a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #E4E3EF;
+}
+.headnav a:hover, #active{
+	color:#00A1F5;
+	
+}
+
+/* this is main content*/
+.maincontent{}
+
+/* this is section*/
+section{background:#fff;padding: 40px;height: 813px;}
+.sectionhead {
+    border-bottom: 2px dotted #BBBABB;
+    padding-bottom: 20px;
+}
+.sectionhead h1 {
+    font-size: 33px;
+}
+.sectionhead h2 {
+    color: #BBBABB;
+    font-size: 26px;
+}
+.sectionpara {
+    padding-top: 20px;
+    border-bottom: 2px dotted #BBBABB;
+    padding-bottom: 20px;
+}
+.sectionpara p {
+    font-size: 20px;
+}
+.sectiondevide {
+    padding-top: 20px;
+    margin-right: -72px;
+}
+.devide {
+    height: 225px;
+    width: 190px;
+    background: #00A1F4;
+    float: left;
+    margin-right: 35px;
+    text-align: center;
+    color: #fff;
+    box-shadow: 7px 6px 7px 1px #BDD1DC;
+}
+.devide h1 {
+    margin-left: 15px;
+    padding: 12px;
+    font-size: 21px;
+    border-bottom: 2px dotted #fff;
+    margin-right: 15px;
+}
+.devide p {
+    padding: 15px;
+    font-size: 12px;
+}
+.devide a {
+    text-decoration: none;
+    font-size: 11px;
+    color: #fff;
+    padding: 7px 20px 7px 20px;
+    background: #006DAA;
+}
+
+/* this is section bottom*/
+.sectionbottom {
+    float: left;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: 2px dotted #BBBABB;
+    border-bottom: 2px dotted #BBBABB;
+    margin-top: 40px;
+    color: #C1C0C1;
+}
+/* this is bottom left*/
+.bottomleft {
+    float: left;
+    width: 307px;
+    height: 260px;
+}
+.bottomleft h3 {
+    font-size: 16px;
+}
+.bottomdetailes {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.bottomdetailes img {
+    float: left;
+    height: 70px;
+    width: 70px;
+}
+.bottompara {
+    padding-left: 88px;
+}
+.bottompara p {
+    font-size: 12px;
+}
+.bottompara h4 {
+    padding-top: 10px;
+    font-size: 12px;
+}
+.bottompara a {
+    text-decoration: none;
+    color: #00A1F4;
+    font-size: 12px;
+}
+
+/* this is bottom right*/
+.bottomright {
+    float: left;
+    width: 292px;
+	height: 260px;
+    border-left: 2px dotted #BBBABB;
+    padding-left: 30px;
+}
+.bottomright h2 {
+    font-size: 16px;
+}
+.bottomright h3 {
+    font-size: 15px;
+    padding-top: 10px;
+}
+.bottomright img {
+    box-shadow: 5px 8px 5px -4px #B8B8B8;
+    padding-top: 5px;
+    height: 139px;
+    width: 290px;
+}
+.bottomright p {
+    font-size: 12px;
+    padding-top: 10px;
+}
+.bottomright a {
+    text-decoration: none;
+    color: #00A1F4;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+/* this is footer*/
+footer {
+    padding-top: 5px;
+    float: left;
+    padding-bottom: 20px;
+}
+footer p {
+    padding-top: 5px;
+    font-size: 11px;
+    color: #CBCACC;
+}
